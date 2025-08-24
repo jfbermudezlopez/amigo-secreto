@@ -17,5 +17,3 @@ La idea es crear un **juego de Amigo Secreto** donde los participantes se agrega
 ## 🛠️ Tecnologías utilizadas
 - **Lenguaje:** JavaScript (puede adaptarse a otros lenguajes).
 - **Entorno:** Proyecto simple ejecutado en el navegador.
-
-- 
